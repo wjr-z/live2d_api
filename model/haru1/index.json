@@ -1,10 +1,10 @@
 {
   "type": "Live2D Model Setting",
   "name": "haru",
-  "model": "haru02.moc",
-  "textures": [ "textures/haru02.1024/texture_00.png", "textures/haru02.1024/texture_01.png", "textures/haru02.1024/texture_02.png" ],
-  "physics": "haru02.physics.json",
-  "pose": "haru02.pose.json",
+  "model": "haru01.moc",
+  "textures": [ "textures/haru01.1024/texture_00.png", "textures/haru01.1024/texture_01.png", "textures/haru01.1024/texture_02.png" ],
+  "physics": "haru01.physics.json",
+  "pose": "haru01.pose.json",
   "expressions": [
     {"name": "f01","file": "exp/f01.exp.json"},
     {"name": "f02","file": "exp/f02.exp.json"},
